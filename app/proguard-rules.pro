@@ -1,0 +1,3 @@
+-printmapping build/outputs/mapping/release/mapping.txt
+-keeppackagenames org.jsoup.nodes
+-dontwarn com.squareup.okhttp.**

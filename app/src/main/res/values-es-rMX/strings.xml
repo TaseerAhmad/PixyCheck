@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PixyCheck</string>
+    <string name="dialog_message">Si te gustó la aplicación por favor considera la calificación  la aplicación. Usted también puede donar para Mostrar su apoyo!</string>
+    <string name="store_error">Error al abrir</string>
+    <string name="dialog_title">Prueba completada</string>
+    <string name="dialog_rate">Tarifa</string>
+    <string name="dialog_dismiss">Terminar</string>
+    <string name="dialog_donate">Suscribir</string>
+    <string name="double_tap_info">Doble toque</string>
+</resources>

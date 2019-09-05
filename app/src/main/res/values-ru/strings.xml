@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PixyCheck</string>
+    <string name="dialog_message">Если вам понравилось приложение, пожалуйста, рассмотреть рейтингу приложение. Вы также можете пожертвовать, чтобы показать свою поддержку!</string>
+    <string name="store_error">Ошибка открытия PlayStore</string>
+    <string name="dialog_title">Тест Завершен</string>
+    <string name="dialog_rate">Ставка</string>
+    <string name="dialog_dismiss">Увольнять</string>
+    <string name="dialog_donate">передача в дар</string>
+    <string name="double_tap_info">двойное нажатие</string>
+</resources>

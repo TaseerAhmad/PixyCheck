@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">PixyCheck</string>
+    <string name="dialog_message">If you liked the app please consider rating the app. You can also donate to show your support!</string>
+    <string name="store_error">ERROR: Could not open PlayStore</string>
+    <string name="dialog_title">Test Completed</string>
+    <string name="dialog_rate">Rate</string>
+    <string name="dialog_dismiss">Dismiss</string>
+    <string name="dialog_donate">Donate</string>
+    <string name="double_tap_info" >Double Tap</string>
+</resources>

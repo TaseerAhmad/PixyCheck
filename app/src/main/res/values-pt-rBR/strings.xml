@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PixyCheck</string>
+    <string name="dialog_message">"Se você gostou da aplicação, por favor considere  avaliaçãoda aplicação. Você também pode doar para mostrar o seu apoio! "</string>
+    <string name="store_error">Erro ao abrir PlayStore</string>
+    <string name="dialog_title">Teste concluído</string>
+    <string name="dialog_rate">Taxa</string>
+    <string name="dialog_dismiss">Dispensar</string>
+    <string name="dialog_donate">Doar</string>
+    <string name="double_tap_info">Toque duplo</string>
+</resources>
